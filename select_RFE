@@ -1,0 +1,55 @@
+,clf1,F_name1,rank1,support1,clf2,F_name2,rank2,support2,clf3,F_name3,rank3,support3,clf4,F_name4,rank4,support4
+3,SVC,Fare,1,True,LR,Fare,4,False,DeTree,Fare,1,True,GB,Fare,1,True
+6,SVC,Log_Fare,1,True,LR,Log_Fare,1,True,DeTree,Log_Fare,1,True,GB,Log_Fare,1,True
+1,SVC,SibSp,1,True,LR,SibSp,2,False,DeTree,SibSp,1,True,GB,SibSp,1,True
+10,SVC,x1_female,1,True,LR,x1_female,1,True,DeTree,x1_female,1,True,GB,x1_female,1,True
+11,SVC,x1_male,1,True,LR,x1_male,1,True,DeTree,x1_male,1,True,GB,x1_male,1,True
+15,SVC,x3_LargeFamily,1,True,LR,x3_LargeFamily,1,True,DeTree,x3_LargeFamily,6,False,GB,x3_LargeFamily,1,True
+16,SVC,x3_Single,1,True,LR,x3_Single,1,True,DeTree,x3_Single,25,False,GB,x3_Single,11,False
+17,SVC,x3_SmallFamily,1,True,LR,x3_SmallFamily,1,True,DeTree,x3_SmallFamily,1,True,GB,x3_SmallFamily,1,True
+18,SVC,x4_Capt,1,True,LR,x4_Capt,1,True,DeTree,x4_Capt,10,False,GB,x4_Capt,13,False
+20,SVC,x4_Don,1,True,LR,x4_Don,1,True,DeTree,x4_Don,1,True,GB,x4_Don,9,False
+21,SVC,x4_Dr,1,True,LR,x4_Dr,20,False,DeTree,x4_Dr,16,False,GB,x4_Dr,18,False
+22,SVC,x4_Jonkheer,1,True,LR,x4_Jonkheer,3,False,DeTree,x4_Jonkheer,19,False,GB,x4_Jonkheer,20,False
+25,SVC,x4_Master,1,True,LR,x4_Master,1,True,DeTree,x4_Master,24,False,GB,x4_Master,1,True
+26,SVC,x4_Miss,1,True,LR,x4_Miss,25,False,DeTree,x4_Miss,27,False,GB,x4_Miss,16,False
+29,SVC,x4_Mr,1,True,LR,x4_Mr,1,True,DeTree,x4_Mr,18,False,GB,x4_Mr,1,True
+30,SVC,x4_Mrs,1,True,LR,x4_Mrs,1,True,DeTree,x4_Mrs,17,False,GB,x4_Mrs,26,False
+32,SVC,x4_Rev,1,True,LR,x4_Rev,1,True,DeTree,x4_Rev,13,False,GB,x4_Rev,1,True
+33,SVC,x4_Sir,1,True,LR,x4_Sir,1,True,DeTree,x4_Sir,1,True,GB,x4_Sir,28,False
+44,SVC,x6_High_Mid,1,True,LR,x6_High_Mid,10,False,DeTree,x6_High_Mid,5,False,GB,x6_High_Mid,1,True
+45,SVC,x6_Low,1,True,LR,x6_Low,9,False,DeTree,x6_Low,7,False,GB,x6_Low,3,False
+46,SVC,x6_Mid,1,True,LR,x6_Mid,8,False,DeTree,x6_Mid,1,True,GB,x6_Mid,1,True
+47,SVC,x6_Upper_High,1,True,LR,x6_Upper_High,1,True,DeTree,x6_Upper_High,8,False,GB,x6_Upper_High,14,False
+48,SVC,x7_boy,1,True,LR,x7_boy,1,True,DeTree,x7_boy,14,False,GB,x7_boy,1,True
+49,SVC,x7_man,1,True,LR,x7_man,1,True,DeTree,x7_man,1,True,GB,x7_man,1,True
+50,SVC,x7_married,1,True,LR,x7_married,1,True,DeTree,x7_married,11,False,GB,x7_married,1,True
+51,SVC,x7_officer,1,True,LR,x7_officer,1,True,DeTree,x7_officer,1,True,GB,x7_officer,1,True
+52,SVC,x7_single,1,True,LR,x7_single,24,False,DeTree,x7_single,1,True,GB,x7_single,1,True
+41,SVC,"x5_(60, 70]",2,False,LR,"x5_(60, 70]",19,False,DeTree,"x5_(60, 70]",1,True,GB,"x5_(60, 70]",1,True
+42,SVC,"x5_(70, 80]",3,False,LR,"x5_(70, 80]",1,True,DeTree,"x5_(70, 80]",4,False,GB,"x5_(70, 80]",17,False
+0,SVC,Age,4,False,LR,Age,1,True,DeTree,Age,1,True,GB,Age,1,True
+35,SVC,"x5_(0, 10]",5,False,LR,"x5_(0, 10]",28,False,DeTree,"x5_(0, 10]",3,False,GB,"x5_(0, 10]",23,False
+43,SVC,x6_High,6,False,LR,x6_High,7,False,DeTree,x6_High,1,True,GB,x6_High,7,False
+36,SVC,"x5_(10, 20]",7,False,LR,"x5_(10, 20]",13,False,DeTree,"x5_(10, 20]",1,True,GB,"x5_(10, 20]",8,False
+37,SVC,"x5_(20, 30]",8,False,LR,"x5_(20, 30]",14,False,DeTree,"x5_(20, 30]",1,True,GB,"x5_(20, 30]",1,True
+4,SVC,Family,9,False,LR,Family,1,True,DeTree,Family,1,True,GB,Family,1,True
+7,SVC,x0_1,10,False,LR,x0_1,1,True,DeTree,x0_1,2,False,GB,x0_1,4,False
+12,SVC,x2_C,11,False,LR,x2_C,16,False,DeTree,x2_C,1,True,GB,x2_C,2,False
+53,SVC,x7_snob,12,False,LR,x7_snob,6,False,DeTree,x7_snob,28,False,GB,x7_snob,1,True
+5,SVC,isCabin,13,False,LR,isCabin,1,True,DeTree,isCabin,1,True,GB,isCabin,1,True
+9,SVC,x0_3,14,False,LR,x0_3,1,True,DeTree,x0_3,1,True,GB,x0_3,1,True
+8,SVC,x0_2,15,False,LR,x0_2,5,False,DeTree,x0_2,1,True,GB,x0_2,6,False
+13,SVC,x2_Q,16,False,LR,x2_Q,17,False,DeTree,x2_Q,1,True,GB,x2_Q,12,False
+2,SVC,Parch,17,False,LR,Parch,23,False,DeTree,Parch,1,True,GB,Parch,5,False
+39,SVC,"x5_(40, 50]",18,False,LR,"x5_(40, 50]",26,False,DeTree,"x5_(40, 50]",1,True,GB,"x5_(40, 50]",1,True
+40,SVC,"x5_(50, 60]",19,False,LR,"x5_(50, 60]",21,False,DeTree,"x5_(50, 60]",9,False,GB,"x5_(50, 60]",15,False
+14,SVC,x2_S,20,False,LR,x2_S,1,True,DeTree,x2_S,1,True,GB,x2_S,1,True
+38,SVC,"x5_(30, 40]",21,False,LR,"x5_(30, 40]",1,True,DeTree,"x5_(30, 40]",1,True,GB,"x5_(30, 40]",1,True
+34,SVC,x4_the Countess,22,False,LR,x4_the Countess,22,False,DeTree,x4_the Countess,26,False,GB,x4_the Countess,21,False
+31,SVC,x4_Ms,23,False,LR,x4_Ms,11,False,DeTree,x4_Ms,15,False,GB,x4_Ms,27,False
+19,SVC,x4_Col,24,False,LR,x4_Col,1,True,DeTree,x4_Col,12,False,GB,x4_Col,10,False
+28,SVC,x4_Mme,25,False,LR,x4_Mme,27,False,DeTree,x4_Mme,21,False,GB,x4_Mme,19,False
+24,SVC,x4_Major,26,False,LR,x4_Major,15,False,DeTree,x4_Major,22,False,GB,x4_Major,24,False
+27,SVC,x4_Mlle,27,False,LR,x4_Mlle,18,False,DeTree,x4_Mlle,23,False,GB,x4_Mlle,25,False
+23,SVC,x4_Lady,28,False,LR,x4_Lady,12,False,DeTree,x4_Lady,20,False,GB,x4_Lady,22,False
